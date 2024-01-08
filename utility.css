@@ -1,0 +1,80 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+    
+}
+.align-item{
+    align-items: center;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.m-1{
+    margin: 3px;
+}
+.p-1{
+    padding: 10px;
+}
+
+/* Apply the dark scrollbar styles to the entire page */
+.spotifyPlaylist {
+    scrollbar-color: #333333 #121212; /* dark scrollbar with a lighter track */
+    scrollbar-width: thin; /* set the scrollbar width */
+  }
+  
+  /* Webkit browsers (like Chrome, Safari) */
+  .spotifyPlaylist::-webkit-scrollbar {
+    width: 10px; /* set the scrollbar width */
+  }
+  
+  .spotifyPlaylist::-webkit-scrollbar-thumb {
+    background-color: #333333; /* dark thumb color */
+  }
+  
+  .spotifyPlaylist::-webkit-scrollbar-track {
+    background-color: #121212; /* lighter track color */
+  }
+  
+  /* Firefox */
+  .spotifyPlaylist {
+    scrollbar-color: #333333 #121212; /* dark scrollbar with a lighter track */
+  }
+  
+
+  /*General Scroll bar*/
+
+  .scbar {
+    scrollbar-color: #333333 #121212; /* dark scrollbar with a lighter track */
+    scrollbar-width: thin; /* set the scrollbar width */
+  }
+  
+  /* Webkit browsers (like Chrome, Safari) */
+  .scbar::-webkit-scrollbar {
+    width: 10px; /* set the scrollbar width */
+  }
+  
+  .scbar::-webkit-scrollbar-thumb {
+    background-color: #333333; /* dark thumb color */
+  }
+  
+  .scbar::-webkit-scrollbar-track {
+    background-color: #121212; /* lighter track color */
+  }
+  
+  /* Firefox */
+  .scbar {
+    scrollbar-color: #333333 #121212; /* dark scrollbar with a lighter track */
+  }
+  
